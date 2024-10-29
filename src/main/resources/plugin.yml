@@ -1,0 +1,7 @@
+name: Claim
+version: '0.0.0'
+main: com.github.igorcossta.Plugin
+api-version: '1.21'
+authors: [ igorcossta ]
+description: Plugin for claiming chunks
+depend: [ WorldGuard, WorldEdit ]
